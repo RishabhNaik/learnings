@@ -12,6 +12,6 @@ Add your accesstoken
 
 Launch it in local host or open it in browser
 
-![alt text](images\Marker)
+![Map image 1](\images\Marker)
 
-![alt text](images\window)
+![Map image 2](\images\window)
