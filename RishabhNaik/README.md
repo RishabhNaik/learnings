@@ -12,6 +12,6 @@ Add your accesstoken
 
 Launch it in local host or open it in browser
 
-![Map image 1](\images\Marker)
+![Map image 1](https://raw.githubusercontent.com/RishabhNaik/learnings/master/RishabhNaik/images/Marker.png)
 
 ![Map image 2](\images\window)
