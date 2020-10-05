@@ -14,4 +14,4 @@ Launch it in local host or open it in browser
 
 ![Map image 1](https://raw.githubusercontent.com/RishabhNaik/learnings/master/RishabhNaik/images/Marker.png)
 
-![Map image 2](\images\window)
+![Map image 2](https://github.com/RishabhNaik/learnings/blob/master/RishabhNaik/images/window.png)
