@@ -12,6 +12,6 @@ Add your accesstoken
 
 Launch it in local host or open it in browser
 
-![alt text](\RishabhNaik\images\Marker)
+![alt text](images\Marker)
 
-![alt text](\RishabhNaik\images\window)
+![alt text](images\window)
